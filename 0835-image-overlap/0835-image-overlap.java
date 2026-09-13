@@ -1,28 +1,42 @@
 class Solution {
     public int largestOverlap(int[][] img1, int[][] img2) {
         int n = img1.length;
-        int maxOverlap = 0;
-        // ....Trying every possible row shift
-        for (int rowShift = -(n - 1); rowShift <= n - 1; rowShift++) {
-            // Try every possible column shift
-            for (int colShift = -(n - 1); colShift <= n - 1; colShift++) {
-                int overlap = 0;
-                // Compare every cell
-                for (int i = 0; i < n; i++) {
-                    for (int j = 0; j < n; j++) {
-                        int newRow = i + rowShift;
-                        int newCol = j + colShift;
-                        // Check if the shifted position is inside img2
-                        if (newRow >= 0 && newRow < n && newCol >= 0 && newCol < n) {
-                            if (img1[i][j] == 1 && img2[newRow][newCol] == 1) {
-                                overlap++;
-                            }
-                        }
-                    }
+
+        List<int[]> ones1 = new ArrayList<>();
+        List<int[]> ones2 = new ArrayList<>();
+
+        // Store positions of 1s in img1
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (img1[i][j] == 1) {
+                    ones1.add(new int[]{i, j});
                 }
-                maxOverlap = Math.max(maxOverlap, overlap);
+
+                if (img2[i][j] == 1) {
+                    ones2.add(new int[]{i, j});
+                }
             }
         }
+
+        Map<String, Integer> map = new HashMap<>();
+        int maxOverlap = 0;
+
+        // Compare every 1 in img1 with every 1 in img2
+        for (int[] p1 : ones1) {
+            for (int[] p2 : ones2) {
+
+                int rowShift = p2[0] - p1[0];
+                int colShift = p2[1] - p1[1];
+
+                String key = rowShift + "," + colShift;
+
+                int count = map.getOrDefault(key, 0) + 1;
+                map.put(key, count);
+
+                maxOverlap = Math.max(maxOverlap, count);
+            }
+        }
+
         return maxOverlap;
     }
 }
