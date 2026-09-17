@@ -7,11 +7,13 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0835-image-overlap) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
@@ -24,10 +26,12 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 ## Binary Search
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -68,4 +72,8 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
