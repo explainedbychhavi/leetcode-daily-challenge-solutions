@@ -13,6 +13,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 | [3483-unique-3-digit-even-numbers](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
 | ------- |
