@@ -33,7 +33,7 @@ class Solution {
                 balance++;
             } else if (ch == '}') {
                 balance--;
-            } else if (ch == ',' && balance == 0) {
+            } else if (ch == ',' && balance == 0) {   //  a,{b,c},d
 
                 result.addAll(solve(s, start, i - 1));
                 start = i + 1;
@@ -50,7 +50,7 @@ class Solution {
         balance = 0;
 
         for (int i = l; i < r; i++) {
-            char ch = s.charAt(i);
+            char ch = s.charAt(i);   //{a,b} {c,d}
 
             if (ch == '{') {
                 balance++;
