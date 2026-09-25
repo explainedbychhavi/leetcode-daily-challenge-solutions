@@ -17,6 +17,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -45,6 +46,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1096-brace-expansion-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -69,6 +71,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -92,4 +95,16 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
