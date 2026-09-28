@@ -6,6 +6,6 @@ class Solution {
             if(c=='(') max=Math.max(max,++depth);
             else if (c==')') depth--;
         }
-        return max;
+        return max;  //((()())
     }
 }
