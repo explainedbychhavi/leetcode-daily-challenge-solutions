@@ -41,6 +41,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -76,6 +77,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 | ------- |
 | [0020-valid-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -112,6 +114,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -124,6 +127,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 | ------- |
 | [0020-valid-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
