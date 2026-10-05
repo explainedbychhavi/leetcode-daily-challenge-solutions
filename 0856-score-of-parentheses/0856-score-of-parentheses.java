@@ -12,8 +12,8 @@ class Solution {
                 depth--;
 
                 // Check for "()"
-                if (s.charAt(i - 1) == '(') {
-                    score += 1 << depth;
+                if (s.charAt(i - 1) == '(') {  //()=1
+                    score += 1 << depth;  //2^depth
                 }
             }
         }
