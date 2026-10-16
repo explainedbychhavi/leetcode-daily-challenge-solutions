@@ -1,4 +1,3 @@
-
 class Solution {
     static final long MOD = 1_000_000_007;
 
