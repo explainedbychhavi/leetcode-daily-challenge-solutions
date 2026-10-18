@@ -8,6 +8,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 | ------- |
 | [0835-image-overlap](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -54,6 +55,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 | [0022-generate-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -74,6 +76,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -115,6 +118,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
 |  |
@@ -178,4 +182,32 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
