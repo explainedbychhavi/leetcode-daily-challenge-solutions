@@ -1,4 +1,3 @@
-
 class Solution {
     public int sortableIntegers(int[] nums) {
         int n = nums.length;
