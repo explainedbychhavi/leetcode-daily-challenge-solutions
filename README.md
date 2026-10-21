@@ -112,6 +112,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
