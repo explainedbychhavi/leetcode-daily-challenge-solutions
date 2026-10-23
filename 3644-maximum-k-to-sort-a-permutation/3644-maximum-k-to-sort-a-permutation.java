@@ -1,4 +1,3 @@
-
 class Solution {
     public int sortPermutation(int[] nums) {
         int k = -1;
