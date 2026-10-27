@@ -1,4 +1,3 @@
-
 class Solution {
     public String[] createGrid(int m, int n) {
         String[] grid = new String[m];
@@ -14,9 +13,6 @@ class Solution {
             row[i] = '.';
             grid[0] = new String(row);
         }
-
-        // Create a single path along the top row,
-        // then down the last column.
         for (int i = 1; i < m; i++) {
             char[] row = grid[i].toCharArray();
             row[n - 1] = '.';
