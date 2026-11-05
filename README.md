@@ -7,6 +7,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/0835-image-overlap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -54,6 +55,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 ## Binary Search
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -75,6 +77,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -107,6 +110,7 @@ Solutions to LeetCode daily challenges and problem sets in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/explainedbychhavi/leetcode-daily-challenge-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
